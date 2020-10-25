@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 400px;
+    background-color: rgb(235, 235, 235);
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 16px;
+    margin: auto;
+    margin-top: 5%;
+}
+h1, h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul li{
+    list-style: none;
+    text-align: center;
+}
+
+.river1{
+    background-color: #0D1B2A;
+    color: #E0E1DD;
+}
+.river2{
+    background-color: #1B4B3B;
+    color: #E0E1DD;
+}
+.river3{
+    background-color: #724631;
+    color: #E0E1DD;
+}
+.river4{
+    background-color: #5FA6C1;
+}
+.river5{
+    background-color: #E0E1DD;
+}
+
+
+.palido1{
+    background-color: rgb(204,139,134);
+}
+.palido2{
+    background-color: rgb(249,234,225);
+}
+.palido3{
+    background-color:rgb(125,79,80);
+    color: #F9EAE1;
+}
+.palido4{
+    background-color: rgb(209,190,156);
+}
+.palido5{
+    background-color: rgb(170,153,143);
+}
+
+
+.opaco1{
+    background-color: hsl(0,4%,13%);
+    color: rgb(202, 194, 147);
+}
+.opaco2{
+    background-color: hsl(356,21%,27%);
+    color: #9C914F;
+}
+.opaco3{
+    background-color: hsl(20,39%,42%);
+}
+.opaco4{
+    background-color: hsl(51,33%,46%);
+}
+.opaco5{
+    background-color: hsl(87,26%,44%);
+}
